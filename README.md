@@ -23,7 +23,7 @@ Acquisition course taught at
 semester of the university year 2020-2021.
 
 For more information or a syllabus check out the course description
-[page here](https://cs.pub.ro/index.php/education/courses/58-under/an1unger/103-data-structures)
+[page here](https://cs.pub.ro/index.php/education/courses/59-under/an2under/118-data-acquisition)
 . This course was taught by Dumitru-Cristian Trancă.
 
 ## 1. Project subject
