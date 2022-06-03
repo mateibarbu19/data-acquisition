@@ -1,20 +1,5 @@
 # Data Acquisition
 
-Table of Contents
-=================
-
-* [Data Acquisition](#data-acquisition)
-   * [0. Repository description](#0-repository-description)
-   * [1. Project subject](#1-project-subject)
-   * [2. Functionality](#2-functionality)
-   * [3. Implementation](#3-implementation)
-   * [4. Electrical Parameters](#4-electrical-parameters)
-   * [5. Power Consumption](#5-power-consumption)
-   * [6. Pictures](#6-pictures)
-   * [7. Acknowledgments](#7-acknowledgments)
-
-Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
-
 ## 0. Repository description
 
 This project provides solutions for the homework project for the Data
@@ -152,13 +137,34 @@ Also, for this application you can disable controllers of USB and HDMI ports ...
 project). Personally, I don't see the use of underclocking, because the OS
 already takes care of that.
 
-## 6. Pictures
+## 6. Arduino 
 
-![pic1](pictures/pic1.jpg "Green state")
-![pic2](pictures/pic2.png "Yellow state")
-![pic3](pictures/pic3.png "Red state")
+In the folder [nano][./nano]  you can find a version of this project made using
+a Arduino Nano. The only components not mentioned used are a
+[OLED screen](https://adafru.it/4440) and a
+[Real-Time Clock](https://adafru.it/3295).
 
-## 7. Acknowledgments
+![sch](Schematic_Nano.svg)
+
+## 7. Pictures
+
+Green state:
+
+![pic1](pictures/pic1.jpg)
+
+Yellow state:
+
+![pic2](pictures/pic2.png)
+
+Red state:
+
+![pic3](pictures/pic3.png)
+
+Arduino Nano version:
+
+![pic4](pictures/pic4.jpg)
+
+## 8. Acknowledgments
 
 I would like to thank Dumitru-Cristian Trancă for the time he put in explaining 
 to me electronics and physics. I would also like to thank my teaching assisnt,
