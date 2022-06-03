@@ -1,5 +1,21 @@
 # Data Acquisition
 
+Table of Contents
+=================
+
+* [Data Acquisition](#data-acquisition)
+   * [0. Repository description](#0-repository-description)
+   * [1. Project subject](#1-project-subject)
+   * [2. Functionality](#2-functionality)
+   * [3. Implementation](#3-implementation)
+   * [4. Electrical Parameters](#4-electrical-parameters)
+   * [5. Power Consumption](#5-power-consumption)
+   * [6. Arduino Nano version](#6-arduino-nano-version)
+   * [7. Pictures](#7-pictures)
+   * [8. Acknowledgments](#8-acknowledgments)
+
+Created by [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)
+
 ## 0. Repository description
 
 This project provides solutions for the homework project for the Data
@@ -137,7 +153,7 @@ Also, for this application you can disable controllers of USB and HDMI ports ...
 project). Personally, I don't see the use of underclocking, because the OS
 already takes care of that.
 
-## 6. Arduino 
+## 6. Arduino Nano version
 
 In the folder [nano][./nano]  you can find a version of this project made using
 a Arduino Nano. The only components not mentioned used are a
